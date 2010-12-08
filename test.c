@@ -1,1 +1,4 @@
-//nothing to diaplay
+//nothing to diapla
+main()
+{
+}
